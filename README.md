@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaidevparmar
-- 👀 I’m interested in python development
+- 👀 I’m interested in python development, scientific computing
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on integrating python with libreoffice/openoffice
 - 📫 How to reach me ... via github comments :)
